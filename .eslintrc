@@ -1,0 +1,16 @@
+{
+  "extends": "airbnb",
+  "env": {
+    "node": true,
+    "meteor": true
+  },
+  "globals": {
+  },
+  "rules": {
+    "no-var": 0,
+    "no-console": 0,
+    "func-names": 0,
+    "no-else-return": 0,
+    "object-shorthand": 0
+  }
+}
