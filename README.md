@@ -1,6 +1,6 @@
 # Meteor Eslint 
 
-This is a eslint package for isobuild, to support the new Meator lint step. 
+This is a eslint package for isobuild, to support the new Meteor lint step. 
 
 ### Installation
 

@@ -3,6 +3,7 @@ Package.describe({
   version: '1.0.2',
   summary: 'The eslint isobuild plugin. With airbnb support!',
   documentation: 'README.md',
+  git: 'https://github.com/EvanFreeman/meteor-eslint',
 });
 
 Package.registerBuildPlugin({
